@@ -20,3 +20,8 @@ If you found a Bug Please report the bug according to. (Please read through [Bug
 * Frontend bugs includes forms that cannot be submitted, the webpage broken visually, broken links, typos etc falls under this category.
 
 * If you encounter 500 errors, or found security vulnerability, its backend error
+
+### privacy and terms
+
+1. [privacy](https://github.com/PaulleDemon/Quickkle-support/blob/main/privacy.md)
+2. [Terms and conditions](https://github.com/PaulleDemon/Quickkle-support/blob/main/terms%26conditions.md)
