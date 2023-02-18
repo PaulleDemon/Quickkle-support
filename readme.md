@@ -13,7 +13,7 @@ Read the documentation on how to use the application [here]()
 
 ## Reporting Bugs
 
-If you found a Bug Please report the bug according to. (Please read through [Bug reporting Guidlines]())
+If you found a Bug Please report the bug according to. (Please read through [Bug reporting Guidlines](https://github.com/PaulleDemon/Quickkle-support/blob/main/bug-reporting.md))
 
 [create issue](https://github.com/PaulleDemon/Quickkle-support/issues)
 
