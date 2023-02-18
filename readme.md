@@ -15,7 +15,7 @@ Read the documentation on how to use the application [here]()
 
 If you found a Bug Please report the bug according to. (Please read through [Bug reporting Guidlines]())
 
-[create issue]()
+[create issue](https://github.com/PaulleDemon/Quickkle-support/issues)
 
 * Frontend bugs includes forms that cannot be submitted, the webpage broken visually, broken links, typos etc falls under this category.
 
