@@ -287,4 +287,4 @@ In order to resolve a complaint regarding the Services or to receive further inf
 
 Quickkle
 India, Bengaluru
-info@Quickkle.com
+info@quickkle.com
