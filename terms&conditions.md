@@ -1,6 +1,6 @@
 # TERMS AND CONDITIONS
 
-Last updated February 19, 2023
+Last updated March 13, 2023
 
 AGREEMENT TO OUR LEGAL TERMS
 
@@ -129,7 +129,6 @@ We accept the following forms of payment:
 -  Visa
 -  Mastercard
 -  UPI
--  PayPal
 
 You agree to provide current, complete, and accurate purchase and account information for all purchases made via the Services. You further agree to promptly update account and payment information, including email address, payment method, and payment card expiration date, so that we can complete your transactions and contact you as needed. Sales tax will be added to the price of purchases as deemed required by us. We may change prices at any time. All payments shall be in US dollars.
 
