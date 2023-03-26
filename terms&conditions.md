@@ -212,7 +212,7 @@ We reserve the right, but not the obligation, to: (1) monitor the Services for v
 
 ### 14. PRIVACY POLICY
 
-We care about data privacy and security. Please review our Privacy Policy: __________. By using the Services, you agree to be bound by our Privacy Policy, which is incorporated into these Legal Terms. Please be advised the Services are hosted in the India and United States. If you access the Services from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the India and United States, then through your continued use of the Services, you are transferring your data to the India and United States, and you expressly consent to have your data transferred to and processed in the India and United States.
+We care about data privacy and security. Please review our Privacy Policy: [privacy policy](https://github.com/PaulleDemon/Quickkle-support/blob/main/privacy.md). By using the Services, you agree to be bound by our Privacy Policy, which is incorporated into these Legal Terms. Please be advised the Services are hosted in the India and United States. If you access the Services from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the India and United States, then through your continued use of the Services, you are transferring your data to the India and United States, and you expressly consent to have your data transferred to and processed in the India and United States.
 
 ### 15. COPYRIGHT INFRINGEMENTS
 
