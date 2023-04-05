@@ -10,7 +10,7 @@ We operate the website quickkle.com (the 'Site'), as well as any other related p
 
 sasss
 
-You can contact us email at info@quickkle.com, or by mail to Bengaluru, India.
+You can contact us email at info@quickkle.com.
 
 These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ('you'), and Quickkle, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
@@ -285,5 +285,4 @@ These Legal Terms and any policies or operating rules posted by us on the Servic
 In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at:
 
 Quickkle
-India, Bengaluru
 info@quickkle.com
